@@ -1,0 +1,87 @@
+body {
+	padding-left: center;
+	font-family: Arial;
+	color: white;
+	background-color:rgba(14, 55, 168, 0.897);
+    text-shadow: 2px 2px black;
+    background-image: url(https://img.lovepik.com/background/20211022/large/lovepik-technological-background-image_401943506.jpg);
+    
+}
+
+.textx{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: 600px;
+    text-shadow: 2px 4px black;
+    
+}
+
+.tex{
+    color: rgb(1, 105, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 600px;
+    text-shadow: 2px 4px black;
+}
+
+.te{
+    color: rgb(13, 137, 168);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600px;
+    text-shadow: 2px 4px black;
+}
+
+#menu{
+    background-color: black;
+}
+
+#menu ul{
+    list-style:none;
+    padding: 0;
+    margin: 0;     
+}   
+
+#menu ul li{
+    display: inline-block;
+}
+
+#menu ul li a{
+    color: white;
+    display: block;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+#menu ul li a:hover{
+    background-color: rgba(12, 168, 230, 0.829);
+}
+
+.item{
+    float: right;
+}
+
+
+
+h1 {
+	font-family: "Arial Black";
+	text-align: center;
+}
+
+
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted;
+}
+
+ header {
+	 width:100%;
+	 background:#161e4a;
+	 position:fixed;
+	 display:flex;
+}
